@@ -1,0 +1,15 @@
+C:\Users\Abdo Said\Desktop\LaptopService\bin\Debug\net10.0\LaptopService.exe
+C:\Users\Abdo Said\Desktop\LaptopService\bin\Debug\net10.0\LaptopService.deps.json
+C:\Users\Abdo Said\Desktop\LaptopService\bin\Debug\net10.0\LaptopService.runtimeconfig.json
+C:\Users\Abdo Said\Desktop\LaptopService\bin\Debug\net10.0\LaptopService.dll
+C:\Users\Abdo Said\Desktop\LaptopService\bin\Debug\net10.0\LaptopService.pdb
+C:\Users\Abdo Said\Desktop\LaptopService\obj\Debug\net10.0\LaptopService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdo Said\Desktop\LaptopService\obj\Debug\net10.0\LaptopService.AssemblyInfoInputs.cache
+C:\Users\Abdo Said\Desktop\LaptopService\obj\Debug\net10.0\LaptopService.AssemblyInfo.cs
+C:\Users\Abdo Said\Desktop\LaptopService\obj\Debug\net10.0\LaptopService.csproj.CoreCompileInputs.cache
+C:\Users\Abdo Said\Desktop\LaptopService\obj\Debug\net10.0\LaptopService.dll
+C:\Users\Abdo Said\Desktop\LaptopService\obj\Debug\net10.0\refint\LaptopService.dll
+C:\Users\Abdo Said\Desktop\LaptopService\obj\Debug\net10.0\LaptopService.pdb
+C:\Users\Abdo Said\Desktop\LaptopService\obj\Debug\net10.0\LaptopService.genruntimeconfig.cache
+C:\Users\Abdo Said\Desktop\LaptopService\obj\Debug\net10.0\ref\LaptopService.dll
+C:\Users\Abdo Said\Desktop\LaptopService\obj\Debug\net10.0\LaptopSe.9C7E1B17.Up2Date
