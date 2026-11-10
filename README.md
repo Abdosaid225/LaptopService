@@ -1,10 +1,44 @@
-**# LaptopService Project
-==> **Description**
+LaptopService Project
 
-==> laptopServies is a C# Console.Application project Designed to manage laptop information and service operations. The project applies Object-Oriented Programming (OOP) principles to organize data and functionality in a structured and maintainable way. Users can add, update, search, and manage laptop records efficiently.
+Description
 
-==> **Technologies Used****
- ==> # C#
- ==> # .NET
- ==> # Object-Oriented Programming (OOP)
- ==> # Visual Studio
+LaptopService is a C# application designed to manage laptop records and service operations. The project applies Object-Oriented Programming (OOP) principles to create a structured, maintainable, and efficient system.
+
+Technologies Used
+
+•	C#
+
+•	.NET
+
+•	Object-Oriented Programming (OOP)
+
+•	Visual Studio
+
+OOP Concepts Applied
+
+•	Classes and Objects
+
+•	Encapsulation
+
+•	Inheritance
+
+•	Polymorphism
+
+•	Abstraction
+
+Main Features
+
+•	Add new laptops
+
+•	View laptop details
+
+•	Update laptop information
+
+•	Delete laptop records
+
+•	Search for laptops
+
+•	Manage service requests
+
+
+
