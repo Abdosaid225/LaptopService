@@ -40,7 +40,5 @@ OOP Concepts Applied
 
 •	Manage service requests
 
-![alt text](image.png)
-
 
 
